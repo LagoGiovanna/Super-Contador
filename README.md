@@ -1,2 +1,2 @@
 # Super-Contador
-Uma página para contar de um número x até y com passo z. O usuário pode determinar os valores.
+Uma página que aceita os números entre 01 e 100 para analisar o número total de entradas, qual maior e menor valor e qual a média dos valores.
